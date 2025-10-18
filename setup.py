@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="npstat",
-    version="0.5",
-    author="OsAfzal",
+    version="0.6",
+    author="EcoAI",
     description="Statistical hypothesis testing package",
     packages=find_packages(),
     install_requires=[
@@ -17,6 +17,7 @@ setup(
     python_requires=">=3.6",
 
 )
+
 
 
 
